@@ -5,7 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Human Islets</a></li>
  
-    edit: https://github.com/yao-lzy/HumanIslets/edit/main/example/%s
+    edit: https://github.com/yao-lzy/HumanIslets/edit/main/%s
     download: ["pdf", "epub"]
   search: 
     enabled: true
